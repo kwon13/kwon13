@@ -30,10 +30,10 @@ If you want to contact me, please leave me a message!
 
 - 🔎 I'm currently learning web development.
 - 🌱 I'm learning Deep Learning, Natural Language Process.
-- ⌨️ I regularly write articles on [naver blog](https://butter-shower.tistory.com).  
+- ⌨️ I regularly write articles on [naver blog](https://blog.naver.com/1012rnjsdydgns).  
   
 
-
+<br/>
 
 
 ### GitHub status
