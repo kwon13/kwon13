@@ -4,8 +4,9 @@
 <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" alt=naverblog style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/k_yhoon130/?hl=ko" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>
+
 
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
