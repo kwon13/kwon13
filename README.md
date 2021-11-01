@@ -1,7 +1,7 @@
 
 
 <a href="https://blog.naver.com/1012rnjsdydgns" target="_blank">
-<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" alt=naverblog style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt=naverblog style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/k_yhoon130/?hl=ko" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
