@@ -19,7 +19,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 🧑🏻‍💻 Experience
-- **TWIGFARM** - Intern, NLP Research *(Aug 2021 - Oct 2021)*
+- **TWIGFARM** - Intern, NLP Research Engineer *(Aug 2021 - Oct 2021)*
 
   
 
