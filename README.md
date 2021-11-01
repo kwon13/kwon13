@@ -1,5 +1,11 @@
 
 
+<a href="https://blog.naver.com/1012rnjsdydgns" target="_blank">
+<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" alt=naverblog style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/k_yhoon130/?hl=ko" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+</a>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -16,14 +22,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 </div>
 
-<a href="https://blog.naver.com/1012rnjsdydgns" target="_blank">
-<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/k_yhoon130/?hl=ko" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
 
-<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+
 
 
 <table><tr><td valign="top" width="50%">
