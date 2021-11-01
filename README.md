@@ -19,9 +19,10 @@
 <a href="https://blog.naver.com/1012rnjsdydgns" target="_blank">
 <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.instagram.com/k_yhoon130/?hl=ko" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+</a>
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 
 
