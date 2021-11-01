@@ -20,5 +20,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-github-readme-stats.vercel.app/api?username=kwon13&show_icons=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon13)](https://github.com/anuraghazra/github-readme-stats)
+
 
