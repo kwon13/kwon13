@@ -12,7 +12,7 @@
 
 I'm from South Korea 🇰🇷  
 
-I am interested in deep learning and natural language process. I love traveling and cycling 🚴
+I am interested in deep learning, natural language process and web development. I love traveling and cycling 🚴
 
 If you want to contact me, please leave me a message!
  
