@@ -20,6 +20,7 @@ If you want to contact me, please leave me a message!
 
 ### 🧑🏻‍💻 Experience
 - **TWIGFARM** - Intern, NLP Research Engineer *(Aug 2021 - Oct 2021)*
+- **한국 관광 공사 x kakao** - Encouragement Prize, 2021 관광데이터 활용 공모전
 
   
 
