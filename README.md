@@ -21,6 +21,7 @@ If you want to contact me, please leave me a message!
 ### 🧑🏻‍💻 Experience
 - **TWIGFARM** - Intern, NLP Research Engineer *(Aug 2021 - Oct 2021)*
 - **한국 관광 공사 x kakao** - Encouragement Prize, 2021 관광데이터 활용 공모전
+- **DIYA 5th** - NLP_team, Team leader *(Apr 2022 - )*
 
   
 
@@ -55,6 +56,7 @@ If you want to contact me, please leave me a message!
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 </div>
 
