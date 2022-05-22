@@ -11,8 +11,10 @@
  
 
 I'm from South Korea 🇰🇷  
+I can analyze case studies, thesis analysis, and applied datasets, implement logic to effectively refine large amounts of textual data, and implement code to efficiently learn models in a multi-node GPU environment. I can use both TensorFlow and PyTorch frameworks, so I am confident in pre-processing data and learning models that implement and apply artificial intelligence code for under any problems.
 
-I am interested in deep learning, natural language process and web development. I love traveling and cycling 🚴
+My bonfire story is...  
+I like to travel. Enjoying a good experience and relaxing leisure is good, but I enjoy traveling to meet as many people as possible to understand culture, have a wide tolerance, and have a meaningful experience. Because many experiences provide the idea of applying artificial intelligence to a wide range of services. So I am enjoying backpacking now.
 
 If you want to contact me, please leave me a message!
  
