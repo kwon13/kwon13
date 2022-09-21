@@ -11,7 +11,7 @@
  
 
 I'm from South Korea 🇰🇷  
-I can analyze case studies, thesis analysis, and applied datasets, implement logic to effectively refine large amounts of textual data, and implement code to efficiently learn models in a multi-node GPU environment. I can use both TensorFlow and PyTorch frameworks, so I am confident in pre-processing data and learning models that implement and apply AI code for under any NLP problems.
+I can analyze case studies, thesis analysis, and applied datasets, implement logic to effectively refine large amounts of textual data, and implement code to efficiently learn models in a multi-node GPU environment. I can use both TensorFlow and PyTorch frameworks, so I am confident in pre-processing data and training models that implement and apply AI code for under any NLP problems.
 
 If you want to contact me, please leave me a message!
  
