@@ -22,7 +22,7 @@ If you want to contact me, please leave me a message!
 - **한국 관광 공사 x kakao** - Encouragement Prize, 2021 관광데이터 활용 공모전
 - **DIYA 5th** - NLP_team, Team leader *(Apr 2022 - )*
 - **Google Developers ML Bootcamp** - Google Developers *(Jun 2022 - Sep 2022)*
-- **Chonnam National University** - Bronze, The 4th Korean Emotion Recognition International Chanllenge
+- **Chonnam National University AI Research Institute** - Bronze, The 4th Korean Emotion Recognition International Chanllenge
 
 <br/>  
 
