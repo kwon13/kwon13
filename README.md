@@ -1,23 +1,15 @@
-### GitHub status
-<!--
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kwon13&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwon13&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
--->
+# Yonghoon Kwon
 <br/>
+Hi there 👋
+I’m Yonghoon Kwon, an AI engineer and researcher passionate about Small Language Models (sLMs) and self-evolving AI agents.
+I enjoy building scalable evaluation pipelines, reasoning systems, and open-source tools for efficient model alignment and benchmarking.
 
-***
-<div align=center>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-</div>
+🌱 Currently exploring: Evolutionary agent frameworks
 
+⚙️ Working with: Python, Docker, PyTorch, vLLM, TRL
+
+📚 Recent paper: CAC-CoT: Connector-Aware Compact Chain-of-Thought for Efficient Reasoning Data Synthesis Across Dual-System Cognitive Tasks (EMNLP 2025 Findings)
+
+💬 Ask me about: LoRA training, Evolving, Reasoning
+
+🌐 [[Linkedin](https://www.linkedin.com/in/yonghoon-kwon-74b72423b)]
