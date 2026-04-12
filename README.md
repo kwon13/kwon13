@@ -6,7 +6,7 @@ I enjoy building scalable evaluation pipelines, reasoning systems, and open-sour
 
 🌱 Currently exploring: Evolutionary agent frameworks
 
-⚙️ Working with: Python, Docker, PyTorch, vLLM, TRL
+⚙️ Working with: Python, Docker, PyTorch, vLLM, TRL, verl
 
 📚 Recent paper: CAC-CoT: Connector-Aware Compact Chain-of-Thought for Efficient Reasoning Data Synthesis Across Dual-System Cognitive Tasks (EMNLP 2025 Findings)
 
